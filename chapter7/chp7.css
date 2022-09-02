@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color:#6c6b6b;
+}
+
+.top-pic{
+    background-image: url(img/mv.jpg);
+    height:400px;
+    background-position: bottom;
+    background-size: cover;
+    margin-bottom: 20px;
+}
+
+.top-text{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.blog{
+    width:840px;
+    margin:0 auto;
+    padding-top:30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid silver
+}
+
+main{
+    margin-bottom: 50px;
+}
